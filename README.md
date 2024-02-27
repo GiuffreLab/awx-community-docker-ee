@@ -2,7 +2,7 @@
 
 This is a repo to build an Ansible Execution Environment that can communicate with Docker containers using the `community.docker` collection.
 
-This was built on `community.docker` version `3.4.9`
+This was built on `community.docker` version `3.8.0`
 
 The compiled version of this is hosted on docker hub [Check Here](https://hub.docker.com/r/giuffrelab/awx-community-docker-ee) and can be used directly in your AWX environment.
 
