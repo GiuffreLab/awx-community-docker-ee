@@ -16,5 +16,5 @@ Under `Administration` and `Execution Environments`
 - Select `Add`
 - Fill out the `name` field
 - Under Pull select `Always Pull`
-- Under image put `giuffrelab/awx-community-docker-ee:latest`
+- Under image put `giuffrelab/awx-community-docker-ee:tagname`
 - `Save`
